@@ -1,8 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 
-// const API_KEY = '5b42a03277b16e40dd14db8f04da92c6';
-
 class beer extends React.Component {
     state = {
         activeBeer: []
